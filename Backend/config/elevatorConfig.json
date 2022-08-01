@@ -1,0 +1,84 @@
+{
+	"elevators" : [
+		{
+			"id": 0,
+			"lowestFloor": -1,
+			"highestFloor": 7
+		},
+		{
+			"id": 1,
+			"lowestFloor": -3,
+			"highestFloor": 6
+		},
+		{
+			"id": 2,
+			"lowestFloor": 0,
+			"highestFloor": 5
+		},
+		{
+			"id": 3,
+			"lowestFloor": 4,
+			"highestFloor": 8
+		},
+		{
+			"id": 4,
+			"lowestFloor": -3,
+			"highestFloor": 8
+		},
+		{
+			"id": 5,
+			"lowestFloor": 0,
+			"highestFloor": 1
+		},
+		{
+			"id": 6,
+			"lowestFloor": -3,
+			"highestFloor": 0
+		},
+		{
+			"id": 7,
+			"lowestFloor": 0,
+			"highestFloor": 4
+		},
+		{
+			"id": 8,
+			"lowestFloor": 0,
+			"highestFloor": 3
+		},
+		{
+			"id": 9,
+			"lowestFloor": -1,
+			"highestFloor": 4
+		},
+		{
+			"id": 10,
+			"lowestFloor": -2,
+			"highestFloor": 6
+		},
+		{
+			"id": 11,
+			"lowestFloor": -3,
+			"highestFloor": 3
+		},
+		{
+			"id": 12,
+			"lowestFloor": -1,
+			"highestFloor": 2
+		},
+		{
+			"id": 13,
+			"lowestFloor": 2,
+			"highestFloor": 7
+		},
+		{
+			"id": 14,
+			"lowestFloor": 7,
+			"highestFloor": 8
+		},
+		{
+			"id": 15,
+			"lowestFloor": -1,
+			"highestFloor": 5
+		}
+	]
+}

@@ -1,0 +1,17 @@
+Backend/node_modules
+Backend/coverage
+Backend/package-lock.json
+Backend/dist
+
+Frontend/dist
+Frontend/node_modules
+Frontend/coverage
+Frontend/package-lock.json
+Frontend/.gitignore
+Frontend/.vscode
+
+
+embeddedElevator/.vscode
+embeddedElevator/credentials.h
+
+Bundle

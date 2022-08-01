@@ -1,0 +1,23 @@
+{
+  "name": "elevator_frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Hubix9",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.18.9",
+    "@babel/plugin-syntax-import-assertions": "^7.18.6",
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6",
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "eslint-plugin-svelte3": "^4.0.0",
+    "svelte": "^3.49.0",
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}

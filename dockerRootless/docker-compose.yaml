@@ -1,0 +1,9 @@
+version: "3.3"
+
+services:
+  elevator_management:
+    image: elevator-management-rootless
+    ports:
+      - "3000:3000/tcp"
+    volumes:
+      - ./../Backend/config:/home/elevatorserver/config
